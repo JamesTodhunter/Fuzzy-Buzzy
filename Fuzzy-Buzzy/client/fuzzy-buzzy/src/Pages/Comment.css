@@ -1,0 +1,18 @@
+.scroll {
+    border: solid;
+    border-width: 4px;
+    margin: 1%;
+    padding: 1%;
+    border-color: darkred;
+    margin-left: 60%;
+    margin-bottom: 5%;
+}
+
+.scrolls{
+    border: solid darkred;
+    border-width: 4px;
+    margin: 1%;
+    padding: .5%;
+    margin-left: 50%;
+}
+

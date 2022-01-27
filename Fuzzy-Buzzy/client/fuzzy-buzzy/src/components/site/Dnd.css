@@ -1,0 +1,28 @@
+.spell{
+    border: solid;
+    margin: 1%;
+    padding: 1%;
+    border-width: 4px;
+    border-color: darkred;
+    margin-right: 60%;
+
+}
+
+.tome {
+    justify-content: center;
+    border: solid darkred;
+    margin: 1%;
+    padding: 1%;
+    margin-right: 60%;
+ 
+
+}
+
+/* .tomes{
+    margin: 100%;
+    padding: 1%;
+    margin-right: 250%;
+    margin-top: -115%;
+    width: 60px;
+   
+} */

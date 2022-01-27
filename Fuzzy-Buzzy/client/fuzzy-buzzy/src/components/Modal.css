@@ -1,0 +1,36 @@
+
+
+.popup {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: "black";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Berthold Baskerville;
+}
+
+.pop-content {
+    width: 500px;
+    background-color: tan;
+}
+
+.pop-header, .modal-footer{
+    padding: 10px;
+}
+
+.pop-title{
+    margin: 0;
+}
+
+.pop-body {
+    padding: 10px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
